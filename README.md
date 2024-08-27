@@ -1,5 +1,7 @@
 # 技術スタック
 
+- TypeScript
+- Node.js
 - Express
   - Node.js の Web アプリフレームワーク
 - sqlite3
@@ -32,7 +34,3 @@ INSERT INTO users (name,profile) VALUES ("tarou", "I am Tarou.")
 
 - Re: ゼロから始める Web API 入門【実践編】
 - Web を支える技術 -HTTP、URI、HTML、そして REST
-
-```
-
-```
